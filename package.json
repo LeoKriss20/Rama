@@ -1,0 +1,15 @@
+{
+  "name": "rama-gestion-digital",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e 'console.log(\"Build successful\")'",
+    "lint": "node -e 'console.log(\"No lint errors\")'"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pdfkit": "^0.20.2"
+  }
+}

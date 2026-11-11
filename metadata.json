@@ -1,0 +1,8 @@
+{
+  "name": "RaMa - Gestão Digital",
+  "description": "RaMa — Gestão de Redes Sociais. Estratégia, criatividade e presença digital.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
